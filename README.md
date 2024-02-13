@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 a7ccafa3222b1edb2932996cb16e397e1f7ae906
 
 
-https://github.com/DeepCodeAI/codacy-integration.git 
+git clone https://github.com/DeepCodeAI/codacy-integration.git 
